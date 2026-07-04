@@ -13,4 +13,4 @@ This project is a simple Caesar Cipher program developed using Python.
 - Python
 
 ## Author
-Priya
+Stephen
